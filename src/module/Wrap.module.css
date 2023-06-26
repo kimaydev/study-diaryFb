@@ -1,0 +1,14 @@
+.Wrap {
+  position: relative;
+  max-width: 960px;
+  min-height: 500px;
+  margin: 0 auto;
+  background: #f2f2f2;
+}
+.AppTitle {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+}
